@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start:polling": "nodemon ./long-polling/long-polling.js"
+    "start:polling": "nodemon ./long-polling/long-polling.js",
+    "start:eventsource": "nodemon ./event-source/event-source.js"
   },
   "author": "Koryagina Krystyna",
   "license": "ISC",
